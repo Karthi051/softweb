@@ -28,10 +28,6 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-
-
-## OUTPUT:
-
 mainpage.html
 ```
 <html>
@@ -746,5 +742,16 @@ border:2px solid red;
 
 
 ```
+
+## OUTPUT:
+![alt text](<steel/webapp/Screenshot (15).png>)
+![alt text](<steel/webapp/Screenshot (17).png>)
+![alt text](<steel/webapp/Screenshot (16).png>)
+
+![alt text](<steel/webapp/Screenshot (18).png>)
+
+![alt text](<steel/webapp/Screenshot (19).png>)
+
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
