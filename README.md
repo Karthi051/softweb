@@ -27,8 +27,11 @@ Validate the HTML code.
 ### Step 7:
 Publish the website in the given URL.
 
+
 ## PROGRAM:
+
 ```
+
 home.html
 <html>
     <head>
@@ -218,6 +221,7 @@ home.html
     </footer>
 </body>
 </html>
+
 
 products.html
 <html>
@@ -411,6 +415,7 @@ products.html
 </body>
 </html>
 
+
 people.html
 
 <html>
@@ -584,6 +589,8 @@ people.html
     </footer>
 </body>
 </html>
+
+
 
 contact.html
 
